@@ -1,7 +1,7 @@
 [github]: https://github.com/GaussNoob
 [gmail]: mailto:galvaoloureiro15@gmail.com
 
-### <samp>> Olá, eu sou GaussNoob! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"> </samp>
+### <samp>> Olá, eu sou Pedro Henrique Galvão Loureiro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"> </samp>
 
 ### Bem-vindo ao meu espaço de aprendizado! 🚀
 
