@@ -3,28 +3,28 @@
 
 ### <samp>> Olá, eu sou GaussNoob! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"> </samp>
 
-### Bem-vindo ao meu cantinho de código! 🚀
+### Bem-vindo ao meu espaço de aprendizado! 🚀
 
-Sou estudante de **Engenharia da Computação**, apaixonado por tecnologia e sempre buscando me aperfeiçoar. Recentemente, comecei a explorar **Sistemas da Informação**, mergulhando em projetos que combinam criatividade e lógica. Trabalho com **C#, .NET, JavaScript, Node.js, HTML, CSS, MySQL, Java e Next.js**, criando desde interfaces web até sistemas backend robustos, tudo isso no meu fiel **Arch Linux**.
+Sou estudante de **Engenharia da Computação** e estou começando a explorar **Sistemas da Informação**. Estou no início da minha jornada, aprendendo todos os dias e trabalhando para me tornar um desenvolvedor extremamente competente. Gosto de criar projetos com **C#, .NET, JavaScript, Node.js, HTML, CSS, MySQL, Java, Next.js** e outras ferramentas, usando tanto **Arch Linux** quanto **Windows**.
 
-Meu objetivo é aprender continuamente, construir projetos incríveis e contribuir para a comunidade open-source. Estou no início da jornada, mas cada linha de código me deixa mais perto de me tornar um desenvolvedor completo!
+No momento, estou me dedicando a entender melhor cada tecnologia e a construir projetos práticos para crescer como desenvolvedor. Minha meta é aprender continuamente, contribuir para a comunidade e criar soluções úteis e bem feitas!
 
-### Um pouco sobre mim
+### Sobre mim
 
-**Tecnologias que domino (programação)**
+**Tecnologias que estou aprendendo (programação)**
 
-Minhas ferramentas para criar projetos incríveis.
+As linguagens e frameworks que estou estudando e usando em projetos.
 
-[![Minhas Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,mysql,java,nextjs)](#)
+[![Minhas Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,mysql,java,nextjs,unity)](#)
 
 **Outras ferramentas que utilizo**
 
-Plataformas e tecnologias que fazem parte do meu dia a dia.
+Ferramentas e plataformas que fazem parte do meu dia a dia enquanto aprendo.
 
-[![Minhas Skills](https://skillicons.dev/icons?i=arch,linux,git,vscode,mysql)](#)
+[![Minhas Skills](https://skillicons.dev/icons?i=arch,windows,linux,git,npm,notion,vercel,photoshop,aftereffects,hoppscotch,rider,vscode)](#)
 
 **Fale comigo (clique no ícone)**
 
-Quer trocar uma ideia sobre código, projetos ou tecnologia? Me mande um e-mail!
+Quer conversar sobre programação, projetos ou tem alguma dica para compartilhar? Me mande um e-mail!
 
 [![Minhas Skills](https://skillicons.dev/icons?i=gmail)][gmail]
