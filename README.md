@@ -15,13 +15,13 @@ No momento, estou me dedicando a entender melhor cada tecnologia e a construir p
 
 As linguagens e frameworks que estou estudando e usando em projetos.
 
-[![Minhas Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,mysql,java,nextjs,unity)](#)
+[![Minhas Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,mysql,java,nextjs,unity,tailwind)](#)
 
 **Outras ferramentas que utilizo**
 
 Ferramentas e plataformas que fazem parte do meu dia a dia enquanto aprendo.
 
-[![Minhas Skills](https://skillicons.dev/icons?i=arch,windows,linux,git,npm,notion,vercel,photoshop,aftereffects,hoppscotch,rider,vscode)](#)
+[![Minhas Skills](https://skillicons.dev/icons?i=arch,windows,linux,git,npm,notion,vercel,photoshop,aftereffects,postman,rider,vscode)](#)
 
 **Fale comigo (clique no ícone)**
 
