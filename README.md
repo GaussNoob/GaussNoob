@@ -15,7 +15,7 @@ No momento, estou me dedicando a entender melhor cada tecnologia e a construir p
 
 As linguagens e frameworks que estou estudando e usando em projetos.
 
-[![Minhas Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,mysql,java,nextjs,unity,tailwind)](#)
+[![Minhas Skills](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,mysql,java,nextjs,unity,tailwind,php)](#)
 
 **Outras ferramentas que utilizo**
 
