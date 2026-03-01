@@ -175,8 +175,6 @@ const pedro = {
 
 <br/><br/>
 
-> *"Todo expert já foi um iniciante. A diferença é que ele não desistiu."*
-
 </div>
 
 <br/>
