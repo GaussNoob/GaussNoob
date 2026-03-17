@@ -21,6 +21,10 @@
     <img src="https://img.shields.io/badge/GaussNoob-0c1a2e?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   &nbsp;
+  <a href="https://www.youtube.com/@codigosujo5017">
+    <img src="https://img.shields.io/badge/C%C3%B3digo%20Sujo-0c1a2e?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=GaussNoob&style=for-the-badge&color=1d4ed8&label=VISITAS&labelColor=0c1a2e" />
 </div>
 
@@ -182,6 +186,10 @@ target = {
 &nbsp;
 <a href="https://github.com/GaussNoob">
   <img src="https://img.shields.io/badge/Ver_Repositorios-1d4ed8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@codigosujo5017">
+  <img src="https://img.shields.io/badge/C%C3%B3digo_Sujo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <br/><br/>
