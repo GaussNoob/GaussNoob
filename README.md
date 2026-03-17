@@ -37,7 +37,7 @@ target = {
     "nome":     "Pedro Henrique Galvão Loureiro",
     "curso":    ["Eng. da Computação", "Sistemas da Informação"],
     "foco":     ["Cybersecurity", "Malware Development", "Offensive Security"],
-    "stack":    ["C#", ".NET", "JS", "Next.js", "Java", "PHP"],
+    "stack":    ["C#", ".NET", "JS", "Next.js", "PHP"],
     "ambiente": ["Arch Linux", "Windows"],
     "aprendendo": ["Reverse Engineering", "Exploit Dev", "Network Security"],
     "meta":     "Dominar o lado ofensivo da segurança digital",
@@ -88,10 +88,6 @@ target = {
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
   <br>Next.js
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <br>Java
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
