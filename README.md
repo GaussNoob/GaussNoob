@@ -21,6 +21,10 @@
     <img src="https://img.shields.io/badge/GaussNoob-0c1a2e?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   &nbsp;
+  <a href="https://github.com/gausskd0">
+    <img src="https://img.shields.io/badge/gausskd0_(antigo)-0c1a2e?style=for-the-badge&logo=github&logoColor=7dd3fc" />
+  </a>
+  &nbsp;
   <a href="https://www.youtube.com/@codigosujo5017">
     <img src="https://img.shields.io/badge/C%C3%B3digo%20Sujo-0c1a2e?style=for-the-badge&logo=youtube&logoColor=FF0000" />
   </a>
@@ -182,14 +186,6 @@ target = {
 
 <a href="mailto:galvaoloureiro15@gmail.com">
   <img src="https://img.shields.io/badge/Manda_um_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/GaussNoob">
-  <img src="https://img.shields.io/badge/Ver_Repositorios-1d4ed8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@codigosujo5017">
-  <img src="https://img.shields.io/badge/C%C3%B3digo_Sujo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <br/><br/>
